@@ -1,7 +1,7 @@
 # Exercise-Tracking-MMFit
 
 **Your digital personal trainer**
-
+We updated the model from Deepfit(https://github.com/namanarora42/DeepFit)
 Deepfit tracks your body movements throughout a workout. It will help correct for posture, keep track of your reps and make sure you get fit the right way.
 
 We also have other version using ST-GCN model:https://github.com/kaiagaoqy/ST-GCN_MMFIT
